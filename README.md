@@ -26,3 +26,5 @@ In conclusion, this chatbot is a practical example of applying classical NLP met
 
 #OUTPUT
 
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d41be412-f12b-4eef-8e1d-e6bf168caa4e" />
+
